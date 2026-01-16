@@ -6,24 +6,24 @@ Tomato is a modern frontend food ordering web application that allows users to b
 ## 🚀 Features
 
 ###🍔 Food Browsing
-Browse different food items
-Clean and user-friendly layout
-Category-based food display
+- Browse different food items
+- Clean and user-friendly layout
+- Category-based food display
 
 ###🛒 Cart & UI Flow
-Add/remove items (UI level)
-Dynamic cart updates
-Smooth navigation experience
+- Add/remove items (UI level)
+- Dynamic cart updates
+- Smooth navigation experience
 
 ###🎨 Modern UI
-Responsive design
-Clean component-based structure
-Optimized for fast loading
+- Responsive design
+- Clean component-based structure
+- Optimized for fast loading
 
 ###⚡ Performance
-Built with Vite for fast builds
-Efficient React rendering
-Optimized assets
+- Built with Vite for fast builds
+- Efficient React rendering
+- Optimized assets
 ---
 
 ## 🛠️ Tech Stack
